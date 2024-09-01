@@ -1,0 +1,33 @@
+.publisher {
+  border: 1px solid red;
+  padding: 20px;
+  min-width: 600px;
+  max-width: 40%;
+  border-radius: 10px;
+}
+
+.subscriber {
+  border-color: green;
+  margin-top: 20px;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+.p20 {
+  padding: 20px;
+}
+
+.label {
+  input {
+    margin-left: 12px;
+  }
+}
+
+.inputContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 75%;
+}
