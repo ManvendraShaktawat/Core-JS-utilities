@@ -1,5 +1,5 @@
 import React from "react";
-import { MyPromise, getPromiseInstance } from "./PromiseBasic";
+import { MyPromise, getPromiseInstance } from "./PromiseLibrary";
 
 MyPromise.race = function (promises) {
   return new MyPromise((resolve, reject) => {
