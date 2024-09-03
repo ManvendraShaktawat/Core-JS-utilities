@@ -10,7 +10,7 @@ import PubSub from "./components/PubSub/main.js";
 function App() {
   return (
     <div>
-      <DeepClone />
+      <Promises />
     </div>
   );
 }
